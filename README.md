@@ -43,9 +43,14 @@ For this project, there is a few simple steps that I always follow:
 ## Create Relationships
 - Establish relationships between tables if your data includes multiple tables. Power BI's automatic relationship detection can recognize common fields, but you can also manually define relationships using the "Manage Relationships" option in the Home tab.
 
+ ![Relationship](static/PBI_Relationship.PNG)
+ 
 ## Choose Visualizations
 - Power BI offers a wide range of visualizations, including charts, tables, maps, gauges, cards, and more. Select the appropriate visualizations based on the type of data and the insights you want to convey. You can find the visualization options in the "Visualizations" pane on the right side of the screen.
 
+ ![Visualization](static/Designing.PNG)
+ 
+ 
 ## Drag and Drop Fields
 - To create visualizations, drag and drop the fields from your data onto the canvas. Power BI automatically suggests suitable visualizations based on the selected fields, or you can manually choose the visualization type. You can also add multiple visualizations to the same report page.
 
@@ -62,3 +67,5 @@ For this project, there is a few simple steps that I always follow:
 - Once you have created your visualizations and reports, you can publish them to the Power BI service for sharing with others. Use the "Publish" option in the Home tab to upload your report to the Power BI cloud. From there, you can share the report with specific individuals or groups, embed it in websites or SharePoint, or export it in various formats.
 
  ![Final](static/Final_dashboard_RA_PBI.PNG)
+ 
+ 
