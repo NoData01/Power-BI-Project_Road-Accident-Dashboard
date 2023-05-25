@@ -4,6 +4,7 @@
 
 # Power-BI-Project_Road-Accident-Dashboard
 The purpose of this project is to monitor, analyze, and visualize road accident data to help authorities, policymakers, and the public make informed decisions regarding road safety measures.
+
  ![Car](static/Car_accident.png)
  
 ## Business Problem
@@ -27,4 +28,6 @@ The purpose of this project is to monitor, analyze, and visualize road accident 
 - Media
 
 
+ ![Data](static/Data_excel.PNG)
 
+ ![Final](static/Final_dashboard_RA_PBI.PNG)
